@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FLAMES_CALCULATOR/static/css/main.939c824f.css",
+    "main.js": "/FLAMES_CALCULATOR/static/js/main.3700e525.js",
+    "static/js/787.89a48419.chunk.js": "/FLAMES_CALCULATOR/static/js/787.89a48419.chunk.js",
+    "index.html": "/FLAMES_CALCULATOR/index.html",
+    "main.939c824f.css.map": "/FLAMES_CALCULATOR/static/css/main.939c824f.css.map",
+    "main.3700e525.js.map": "/FLAMES_CALCULATOR/static/js/main.3700e525.js.map",
+    "787.89a48419.chunk.js.map": "/FLAMES_CALCULATOR/static/js/787.89a48419.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939c824f.css",
+    "static/js/main.3700e525.js"
+  ]
+}
