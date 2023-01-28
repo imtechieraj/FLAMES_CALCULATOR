@@ -4,7 +4,7 @@ Flames is the combination of 6 letters and the word flames has not specific mean
 
 ## Live Demo
 
-Open [Click this link](https://thisisrajkumar.github.io/FLAMES_CALCULATOR/) to view it in your browser.
+Open [Click this link](https://imtechieraj.github.io/FLAMES_CALCULATOR/) to view it in your browser.
 
 ## How It's Work ? 
 
